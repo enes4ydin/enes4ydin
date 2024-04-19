@@ -4,9 +4,21 @@
  </a>
 </div>
 
-
 <h3 align="center">&nbsp; Software Developer</h3>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="400" heigjt="250">
+<br>
+
+<table style="width:100%; border-width: 10px; border-style: solid; border-image: linear-gradient(30deg, orange , yellow, green, cyan, blue, violet) 1 1;">
+  <tr>
+    <th style="width:70%">
+     <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enes4ydin/enes4ydin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enes4ydin/enes4ydin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enes4ydin/enes4ydin/output/github-contribution-grid-snake.svg">
+  </picture>
+    </th>
+    <th><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"></th>
+  </tr>
+</table>
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/enes4ydin?theme=unicorn)](https://leetcode.com/enes4ydin/) -->
 
@@ -14,13 +26,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary> 
 -->
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enes4ydin/enes4ydin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enes4ydin/enes4ydin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enes4ydin/enes4ydin/output/github-contribution-grid-snake.svg">
-</picture>
-</br>
 </br>
 </br>
 <h1 align="center">&nbsp; 💻 Languages and Tools</h1>
