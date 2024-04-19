@@ -6,6 +6,7 @@
 
 
 <h3 align="center">&nbsp; Software Developer</h3>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="400" heigjt="250">
 <img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen> />
 <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE"></a></p>
