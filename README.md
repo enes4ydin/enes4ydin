@@ -5,7 +5,8 @@
 </div>
 
 
-<h3 align="center">&nbsp; Software Developer</h3>
+<h3 align="left">&nbsp; Software Developer</h3>
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/enes4ydin?theme=unicorn)](https://leetcode.com/enes4ydin/) -->
 
