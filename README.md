@@ -7,7 +7,7 @@
 <h3 align="center">&nbsp; Software Developer</h3>
 <br>
 
-<table style="width:100%; border-width: 10px; border-style: solid; border-image: linear-gradient(30deg, orange , yellow, green, cyan, blue, violet) 1 1;">
+<table style="width:100%"  border= "8">
   <tr>
     <th style="width:70%">
      <picture>
