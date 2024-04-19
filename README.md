@@ -7,10 +7,6 @@
 
 <h3 align="center">&nbsp; Software Developer</h3>
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right" width="400" heigjt="250">
-<img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen> />
-<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE"></a></p>
-<div style="width:100%;height:0;padding-bottom:105%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/enes4ydin?theme=unicorn)](https://leetcode.com/enes4ydin/) -->
 
